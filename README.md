@@ -1,3 +1,4 @@
 # markdown
 markdown notebook
-！[alt text](taylor swift.jpg)
+
+![alt text](https://github.com/suziW/markdown/blob/master/taylor%20swift.jpg)
